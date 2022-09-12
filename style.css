@@ -1,0 +1,36 @@
+#footer{
+    background-color: #F5F5F5;
+    margin: 0px;
+    line-height: 2;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+canvas{
+    margin: 45px;
+   position: center;
+}
+
+#play, #status, #play_again{
+    font-size: 22px;
+}
+
+#play{
+    margin-top: 15px;
+}
